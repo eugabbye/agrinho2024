@@ -14,8 +14,12 @@ body {
     text-align: justify;
 }
 
+.tudoo {
+    width: max-content;
+}
+
 .cabecalho {
-    background-color: rgb(37, 85, 71);
+    background-color: #255547;
     color: white;
     display: flex;
     justify-content: space-around;
