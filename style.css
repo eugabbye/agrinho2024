@@ -1,4 +1,4 @@
-@import url("styles/header.css");
+
 
 :root {
     --cor-de-fundo: #173343;
@@ -12,4 +12,28 @@ body {
     font-size: 16px;
     font-weight: 400;
     text-align: justify;
+}
+
+.cabecalho {
+    background-color: rgb(37, 85, 71);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 10%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 16px;
+}
+
+.cabecalho-lista-item a{
+    text-decoration: none; 
+    color: white;
 }
