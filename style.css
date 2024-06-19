@@ -18,35 +18,3 @@ body {
     width: 100%
 }
 
-.cabecalho {
-    background-image: linear-gradient(to bottom right, #668441, #41522D);
-    color: rgb(0, 0, 0);
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
-}
-
-.cabecalho-imagem{
-    width: 15%;
-}
-
-.cabecalho-lista-item{
-    display: inline-block;
-    margin: 0 16px;
-    font-size: 24px;
-}
-
-.cabecalho-lista-item a{
-    text-decoration: none; 
-    color: rgb(0, 0, 0);
-}
-
-.cabecalho_menu-hamburguer{
-    width: 24px;
-    height: 24px;
-    background-image: url("menu.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    display: inline-block;  
-}
