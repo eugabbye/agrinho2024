@@ -4,7 +4,6 @@
 
 nav{
     background-color: #668441;
-    color: white;
     padding: 0 30%;
 }
 
@@ -23,7 +22,7 @@ nav li a{
 }
 
 nav li a:hover{
-    background-color: #41522D;
+    background-color: #8fa872;
 }
 
 .dropdown-menu{
