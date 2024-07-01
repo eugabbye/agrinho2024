@@ -1,18 +1,10 @@
-.cabecalho_menu-hamburguer{
-    width: 24px;
-    height: 24px;
-    background-image: linear-gradient(to bottom right, #668441, #41522D);
-    background-repeat: no-repeat;
-    background-position: center;
-    display: inline-block;  
-}
-
 *{
     box-sizing: border-box;
 }
 
 nav{
     background-color: #668441;
+    color: white;
     padding: 0 30%;
 }
 
