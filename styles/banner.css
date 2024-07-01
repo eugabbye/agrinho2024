@@ -40,4 +40,9 @@ button:hover {
 
 }
 
-
+.seta {
+    width: 30%;
+    height: 20%;
+    background-image: url("../img/seta.png");
+        display: inline-block;
+}
