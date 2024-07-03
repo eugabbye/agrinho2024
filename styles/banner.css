@@ -7,7 +7,7 @@
 }
 
 .banner_titulo {
-    font-size: 40px;
+    font-size: 80px;
     font-weight: 700;
     font-family: "Abril Fatface";
     text-transform: uppercase;
@@ -15,6 +15,7 @@
 
 .banner_texto {
     font-weight: 500;
+    font-size: 80px;
 }
 
 .arrastar {
