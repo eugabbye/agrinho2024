@@ -20,8 +20,8 @@ body {
 }
 
 .seta {
-    width: 30%;
-    height: 30%;
+    width: 60%;
+    height: 20%;
     background-image: url("../img/seta.png");
         display: inline-block;
 }
