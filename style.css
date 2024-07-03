@@ -21,10 +21,11 @@ body {
 
 .seta {
     width: 60%;
-    height: 20%;
+    height: 40%;
     background-image: url("../img/seta.png");
         display: inline-block;
 }
+
 .espaco1 {
     padding-top: 2em;
     padding-bottom: 2em;
