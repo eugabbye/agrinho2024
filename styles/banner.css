@@ -1,5 +1,5 @@
 .banner {
-    background-image: url(ban.png);
+    background-image: url("../img/ban.png");
     color: white;
     text-align: center;
     padding-top: 3em;
