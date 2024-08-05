@@ -32,6 +32,8 @@ img{
 }
 
 .box__back{
+    justify-content: center;
+    display: flex;
     background-color: hsl(0, 0%, 100%);
     width: 350px;
     height: 350px;
