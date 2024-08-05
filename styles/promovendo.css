@@ -32,6 +32,8 @@ img{
 }
 
 .box__back{
+    justify-content: center;
+    display: inline;
     background-color: hsl(0, 0%, 100%);
     width: 350px;
     height: 350px;
@@ -44,7 +46,6 @@ img{
 }
 
 .box-text {
-    display: flex;
     padding-top: 10%;
     margin-left: 1em;
     margin-right: 1em;
